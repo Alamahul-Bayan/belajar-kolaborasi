@@ -5,3 +5,4 @@ Belajar Squish Merge<br>
  + Commit ke 1 <br>
  - Commit ke 2 <br>
  + Commit ke 3 <br>
+ is okay.
